@@ -23,3 +23,12 @@ Foi usado o módulo JWT do Python - PyJWT por ser melhor compreensível e fácil
 
 # CASO 3: Fazer uma publicação
 - O ator cria um post. Esta publicação é persistida no sistema. Como usuário, ele deve poder criar uma publicação, para que possa ser vista por outros usuários do sistema.
+
+# CASO 4: Feed geral
+O ator deve receber, no formato JSON, o feed dos últimos 10 posts utilizando paginação.
+
+
+
+
+# 📜 Regras de negócio
+O usuário não deve ver os próprios Posts.
