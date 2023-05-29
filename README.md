@@ -1,3 +1,4 @@
+# 🚨 O projeto não está funcionando corretamente, corrigir. 🚨
 
 # mini_twitter_REST
 Implementar uma API REST em que um usuário possa realizar um cadastro, publicar Posts e ver as publicações de outros usuários.
